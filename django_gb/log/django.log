@@ -1,0 +1,505 @@
+INFO 2024-03-03 15:22:36,470 autoreload 6976 10376 Watching for file changes with StatReloader
+INFO 2024-03-03 15:22:40,100 basehttp 6976 5468 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:25:24,031 autoreload 6976 10376 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-03 15:25:24,803 autoreload 4452 8928 Watching for file changes with StatReloader
+INFO 2024-03-03 15:25:26,492 views 4452 7212 Успешное открытие страницы О сайте
+INFO 2024-03-03 15:25:26,502 basehttp 4452 7212 "GET / HTTP/1.1" 200 355
+DEBUG 2024-03-03 15:25:42,709 views 4452 7212 Успешное открытие страницы О сайте
+INFO 2024-03-03 15:25:42,711 basehttp 4452 7212 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:26:14,294 autoreload 4452 8928 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:26:15,057 autoreload 9892 13748 Watching for file changes with StatReloader
+INFO 2024-03-03 15:26:16,322 views 9892 9544 Index page accessed
+INFO 2024-03-03 15:26:16,333 basehttp 9892 9544 "GET / HTTP/1.1" 200 355
+DEBUG 2024-03-03 15:26:18,806 views 9892 9544 about page accessed
+INFO 2024-03-03 15:26:18,808 basehttp 9892 9544 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:40:15,926 autoreload 9892 13748 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
+INFO 2024-03-03 15:40:16,696 autoreload 7868 15148 Watching for file changes with StatReloader
+INFO 2024-03-03 15:40:43,889 autoreload 7868 15148 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
+INFO 2024-03-03 15:40:44,665 autoreload 7244 15756 Watching for file changes with StatReloader
+INFO 2024-03-03 15:45:44,645 autoreload 7244 15756 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:45:45,423 autoreload 13948 14096 Watching for file changes with StatReloader
+INFO 2024-03-03 15:47:27,315 autoreload 13948 14096 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:47:28,095 autoreload 8760 7828 Watching for file changes with StatReloader
+INFO 2024-03-03 15:47:49,811 autoreload 8760 7828 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:47:50,596 autoreload 5504 14896 Watching for file changes with StatReloader
+INFO 2024-03-03 15:48:40,878 autoreload 5504 14896 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:48:41,639 autoreload 1200 15012 Watching for file changes with StatReloader
+INFO 2024-03-03 15:48:42,707 views 1200 11220 Index page accessed
+INFO 2024-03-03 15:48:42,718 basehttp 1200 11220 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:48:43,622 views 1200 11220 about page accessed
+INFO 2024-03-03 15:48:43,624 basehttp 1200 11220 "GET /about/ HTTP/1.1" 200 373
+INFO 2024-03-03 15:48:44,884 views 1200 11220 Index page accessed
+INFO 2024-03-03 15:48:44,886 basehttp 1200 11220 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:48:47,398 views 1200 11220 about page accessed
+INFO 2024-03-03 15:48:47,399 basehttp 1200 11220 "GET /about/ HTTP/1.1" 200 373
+INFO 2024-03-03 15:49:08,645 autoreload 1200 15012 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:49:09,419 autoreload 15756 9248 Watching for file changes with StatReloader
+INFO 2024-03-03 15:49:10,376 views 15756 9836 about page accessed
+INFO 2024-03-03 15:49:10,387 basehttp 15756 9836 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:49:11,013 views 15756 9836 Index page accessed
+INFO 2024-03-03 15:49:11,015 basehttp 15756 9836 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:49:11,485 views 15756 9836 about page accessed
+INFO 2024-03-03 15:49:11,486 basehttp 15756 9836 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:49:40,628 views 15756 9836 Index page accessed
+INFO 2024-03-03 15:49:40,631 basehttp 15756 9836 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:49:40,692 autoreload 15756 9248 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:49:41,482 autoreload 7296 13156 Watching for file changes with StatReloader
+INFO 2024-03-03 15:49:51,066 views 7296 16260 about page accessed
+INFO 2024-03-03 15:49:51,076 basehttp 7296 16260 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:49:53,879 views 7296 16260 about page accessed
+INFO 2024-03-03 15:49:53,882 basehttp 7296 16260 "GET /optika/ HTTP/1.1" 200 373
+INFO 2024-03-03 15:50:17,930 views 7296 16260 Index page accessed
+INFO 2024-03-03 15:50:17,933 basehttp 7296 16260 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:50:18,287 autoreload 7296 13156 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:50:19,048 autoreload 7348 8528 Watching for file changes with StatReloader
+INFO 2024-03-03 15:50:31,675 views 7348 13632 Index page accessed
+INFO 2024-03-03 15:50:31,686 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:50:32,404 views 7348 13632 about page accessed
+INFO 2024-03-03 15:50:32,406 basehttp 7348 13632 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:50:33,045 views 7348 13632 Index page accessed
+INFO 2024-03-03 15:50:33,046 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:52:16,852 views 7348 13632 about page accessed
+INFO 2024-03-03 15:52:16,854 basehttp 7348 13632 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:52:17,316 views 7348 13632 Index page accessed
+INFO 2024-03-03 15:52:17,317 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
+INFO 2024-03-03 15:55:29,077 views 7348 13632 Index page accessed
+ERROR 2024-03-03 15:55:29,254 log 7348 13632 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 26, in index
+    return render(request, 'homework_1/index.html', context=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2024-03-03 15:55:29,266 basehttp 7348 13632 "GET / HTTP/1.1" 500 161951
+INFO 2024-03-03 15:57:53,003 autoreload 7348 8528 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-03 15:57:53,777 autoreload 11256 12832 Watching for file changes with StatReloader
+INFO 2024-03-03 15:57:56,088 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:57:56,099 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:57:58,644 views 11256 3168 optika page accessed
+INFO 2024-03-03 15:57:58,647 basehttp 11256 3168 "GET /optika/ HTTP/1.1" 200 373
+INFO 2024-03-03 15:58:00,748 views 11256 3168 copper page accessed
+INFO 2024-03-03 15:58:00,750 basehttp 11256 3168 "GET /copper/ HTTP/1.1" 200 365
+INFO 2024-03-03 15:58:02,539 views 11256 3168 radio_wave page accessed
+INFO 2024-03-03 15:58:02,541 basehttp 11256 3168 "GET /radio_wave/ HTTP/1.1" 200 389
+INFO 2024-03-03 15:58:15,677 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:15,679 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:19,477 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:19,479 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:25,268 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:25,269 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:28,149 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:28,151 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:29,957 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:29,959 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:30,612 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:30,614 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:31,468 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:31,470 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:31,972 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:31,974 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:33,205 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:33,206 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:36,813 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:36,815 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:37,269 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:37,270 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:37,645 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:37,646 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:38,214 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:38,215 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 15:58:38,645 views 11256 3168 Index page accessed
+INFO 2024-03-03 15:58:38,646 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 15:58:39,109 views 11256 3168 about page accessed
+INFO 2024-03-03 15:58:39,110 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
+INFO 2024-03-03 16:01:00,239 views 11256 3168 Index page accessed
+INFO 2024-03-03 16:01:00,243 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 16:01:01,398 views 11256 3168 about page accessed
+INFO 2024-03-03 16:01:01,405 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
+INFO 2024-03-03 16:01:39,876 views 11256 3168 about page accessed
+INFO 2024-03-03 16:01:39,878 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
+INFO 2024-03-03 16:01:40,356 views 11256 3168 Index page accessed
+INFO 2024-03-03 16:01:40,357 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 16:01:41,821 views 11256 3168 about page accessed
+INFO 2024-03-03 16:01:41,822 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
+INFO 2024-03-03 16:01:42,293 views 11256 3168 Index page accessed
+INFO 2024-03-03 16:01:42,294 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
+INFO 2024-03-03 16:07:29,098 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:29,121 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:07:29,207 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
+INFO 2024-03-03 16:07:31,299 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:31,301 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:07:32,356 views 11256 11396 about page accessed
+INFO 2024-03-03 16:07:32,358 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:07:33,548 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:33,549 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:07:34,301 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:07:34,303 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:07:35,268 views 11256 11396 about page accessed
+INFO 2024-03-03 16:07:35,269 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:07:36,180 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:36,182 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:07:36,795 views 11256 11396 copper page accessed
+INFO 2024-03-03 16:07:36,797 basehttp 11256 11396 "GET /copper/ HTTP/1.1" 200 454
+INFO 2024-03-03 16:07:37,603 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:37,605 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:07:38,452 views 11256 11396 radio_wave page accessed
+INFO 2024-03-03 16:07:38,454 basehttp 11256 11396 "GET /radio_wave/ HTTP/1.1" 200 478
+INFO 2024-03-03 16:07:39,435 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:07:39,436 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:09,930 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:09,932 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:12,299 views 11256 11396 about page accessed
+INFO 2024-03-03 16:10:12,300 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:10:13,090 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:13,092 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:39,643 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:39,644 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:40,314 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:40,315 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:46,714 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:46,715 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:47,570 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:47,571 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:58,427 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:58,429 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:10:59,569 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:10:59,571 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:01,619 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:11:01,621 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:01,654 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7270
+WARNING 2024-03-03 16:11:01,733 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:11:01,733 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:11:07,434 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:11:07,436 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:07,466 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
+INFO 2024-03-03 16:11:15,727 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:11:15,730 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:15,769 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7333
+WARNING 2024-03-03 16:11:15,828 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:11:15,828 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:11:21,978 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:11:21,980 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:22,011 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
+INFO 2024-03-03 16:11:23,963 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:11:23,965 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:11:23,991 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:11:25,459 views 11256 11396 about page accessed
+INFO 2024-03-03 16:11:25,460 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:11:25,488 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:11:27,036 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:11:27,037 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:11:27,063 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:11:51,715 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:11:51,717 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:11:51,747 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:11:52,939 views 11256 11396 about page accessed
+INFO 2024-03-03 16:11:52,940 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:12:30,503 views 11256 11396 about page accessed
+INFO 2024-03-03 16:12:30,505 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:12:30,545 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6647
+WARNING 2024-03-03 16:12:30,607 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:12:30,608 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:12:31,195 views 11256 11396 about page accessed
+INFO 2024-03-03 16:12:31,196 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:12:31,222 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6647
+WARNING 2024-03-03 16:12:31,287 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:12:31,288 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:12:34,204 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:12:34,206 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:12:34,235 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:12:35,844 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:12:35,845 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:12:35,871 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:12:46,075 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:12:46,077 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:12:46,106 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6579
+WARNING 2024-03-03 16:12:46,162 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:12:46,163 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:12:46,687 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:12:46,689 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:12:46,714 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6579
+WARNING 2024-03-03 16:12:46,777 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:12:46,778 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:13:08,682 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:08,684 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:08,713 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
+WARNING 2024-03-03 16:13:08,772 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:13:08,772 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:13:17,831 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:17,833 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:17,864 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6089
+WARNING 2024-03-03 16:13:17,919 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:13:17,920 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:13:18,634 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:18,636 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:18,662 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6089
+WARNING 2024-03-03 16:13:18,714 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:13:18,715 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:13:24,169 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:24,170 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:24,199 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
+INFO 2024-03-03 16:13:24,921 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:24,923 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:24,946 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:13:26,076 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:26,078 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:26,102 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:13:26,761 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:26,762 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:26,787 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:13:28,591 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:13:28,593 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:13:28,619 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
+WARNING 2024-03-03 16:13:28,680 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:13:28,681 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:14:17,736 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:17,738 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:17,773 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
+WARNING 2024-03-03 16:14:17,835 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:14:17,836 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:14:18,466 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:18,468 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:18,492 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
+WARNING 2024-03-03 16:14:18,553 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:14:18,554 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:14:18,858 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:18,860 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:18,886 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
+WARNING 2024-03-03 16:14:18,932 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:14:18,933 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:14:42,863 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:42,865 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:42,896 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 118
+WARNING 2024-03-03 16:14:42,941 log 11256 11396 Not Found: /favicon.ico
+WARNING 2024-03-03 16:14:42,942 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 16:14:45,195 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:14:45,197 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:14:45,227 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:14:46,251 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:46,253 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:46,279 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:14:47,634 views 11256 11396 copper page accessed
+INFO 2024-03-03 16:14:47,635 basehttp 11256 11396 "GET /copper/ HTTP/1.1" 200 454
+INFO 2024-03-03 16:14:47,662 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:14:49,204 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:49,206 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:49,232 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:14:54,057 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:14:54,059 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:14:54,086 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
+INFO 2024-03-03 16:15:08,012 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:15:08,014 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:15:08,041 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:15:08,643 views 11256 11396 about page accessed
+INFO 2024-03-03 16:15:08,644 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 16:15:35,811 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:15:35,813 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 16:15:35,846 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:16:20,221 views 11256 11396 optika page accessed
+INFO 2024-03-03 16:16:20,224 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 16:16:20,254 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 16:16:21,875 views 11256 11396 Index page accessed
+INFO 2024-03-03 16:16:21,877 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 18:58:27,762 views 11256 1776 Index page accessed
+INFO 2024-03-03 18:58:27,764 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 18:58:27,794 basehttp 11256 1776 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 18:58:28,510 views 11256 1776 about page accessed
+INFO 2024-03-03 18:58:28,512 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 18:58:29,671 views 11256 1776 Index page accessed
+INFO 2024-03-03 18:58:29,673 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 18:59:02,943 views 11256 1776 about page accessed
+INFO 2024-03-03 18:59:02,945 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 18:59:35,030 views 11256 1776 about page accessed
+INFO 2024-03-03 18:59:35,036 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
+INFO 2024-03-03 18:59:37,495 views 11256 1776 about page accessed
+INFO 2024-03-03 18:59:37,497 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
+INFO 2024-03-03 18:59:38,086 views 11256 1776 Index page accessed
+INFO 2024-03-03 18:59:38,088 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 18:59:38,822 views 11256 1776 about page accessed
+INFO 2024-03-03 18:59:38,824 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
+INFO 2024-03-03 19:09:02,422 views 11256 12212 about page accessed
+INFO 2024-03-03 19:09:02,425 basehttp 11256 12212 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 19:09:05,869 views 11256 12212 Index page accessed
+INFO 2024-03-03 19:09:05,873 basehttp 11256 12212 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:55:23,027 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:55:23,029 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:55:23,055 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 19:56:41,347 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:56:41,350 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:56:42,250 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:56:42,252 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:56:43,043 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:56:43,044 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:56:45,469 views 11256 15532 about page accessed
+INFO 2024-03-03 19:56:45,471 basehttp 11256 15532 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 19:56:46,197 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:56:46,199 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:57:02,526 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:57:02,528 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:57:02,561 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
+WARNING 2024-03-03 19:57:02,639 log 11256 15532 Not Found: /favicon.ico
+WARNING 2024-03-03 19:57:02,640 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 19:57:03,278 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:57:03,280 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:57:03,307 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
+WARNING 2024-03-03 19:57:03,374 log 11256 15532 Not Found: /favicon.ico
+WARNING 2024-03-03 19:57:03,375 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 19:57:03,672 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:57:03,674 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:57:03,698 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
+WARNING 2024-03-03 19:57:03,762 log 11256 15532 Not Found: /favicon.ico
+WARNING 2024-03-03 19:57:03,762 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 19:57:04,002 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:57:04,003 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 19:57:04,028 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
+WARNING 2024-03-03 19:57:04,085 log 11256 15532 Not Found: /favicon.ico
+WARNING 2024-03-03 19:57:04,086 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 19:57:41,961 views 11256 15532 about page accessed
+INFO 2024-03-03 19:57:41,962 basehttp 11256 15532 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 19:57:42,084 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
+WARNING 2024-03-03 19:57:42,197 log 11256 15532 Not Found: /favicon.ico
+WARNING 2024-03-03 19:57:42,197 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 19:57:44,092 views 11256 15532 Index page accessed
+INFO 2024-03-03 19:57:44,094 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:25:50,071 views 11256 14608 optika page accessed
+INFO 2024-03-03 20:25:50,075 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 20:25:50,105 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:25:52,524 views 11256 14608 copper page accessed
+INFO 2024-03-03 20:25:52,526 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
+INFO 2024-03-03 20:25:57,509 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:25:57,511 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:26:38,996 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:26:38,998 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:26:39,024 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 226
+WARNING 2024-03-03 20:26:39,073 log 11256 14608 Not Found: /favicon.ico
+WARNING 2024-03-03 20:26:39,074 basehttp 11256 14608 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 20:26:53,923 views 11256 14608 optika page accessed
+INFO 2024-03-03 20:26:53,925 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 20:26:53,961 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:26:56,508 views 11256 14608 copper page accessed
+INFO 2024-03-03 20:26:56,510 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
+INFO 2024-03-03 20:26:56,533 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:26:58,523 views 11256 14608 radio_wave page accessed
+INFO 2024-03-03 20:26:58,525 basehttp 11256 14608 "GET /radio_wave/ HTTP/1.1" 200 478
+INFO 2024-03-03 20:26:58,557 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:27:02,580 views 11256 14608 optika page accessed
+INFO 2024-03-03 20:27:02,582 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
+INFO 2024-03-03 20:27:02,605 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:27:04,572 views 11256 14608 copper page accessed
+INFO 2024-03-03 20:27:04,573 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
+INFO 2024-03-03 20:27:06,468 views 11256 14608 radio_wave page accessed
+INFO 2024-03-03 20:27:06,469 basehttp 11256 14608 "GET /radio_wave/ HTTP/1.1" 200 478
+INFO 2024-03-03 20:27:06,494 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:27:48,428 views 11256 14608 about page accessed
+INFO 2024-03-03 20:27:48,429 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 20:27:48,457 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:27:52,677 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:27:52,680 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:28:05,549 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:28:05,551 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:28:05,584 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-03 20:28:06,164 views 11256 14608 about page accessed
+INFO 2024-03-03 20:28:06,166 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 20:28:06,859 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:28:06,861 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:28:07,484 views 11256 14608 about page accessed
+INFO 2024-03-03 20:28:07,486 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 20:28:08,045 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:28:08,047 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 20:28:08,603 views 11256 14608 about page accessed
+INFO 2024-03-03 20:28:08,605 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
+INFO 2024-03-03 20:28:09,451 views 11256 14608 Index page accessed
+INFO 2024-03-03 20:28:09,453 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
+INFO 2024-03-03 21:07:48,001 autoreload 2624 8876 Watching for file changes with StatReloader
+INFO 2024-03-03 21:07:50,994 views 2624 14732 Index page accessed
+INFO 2024-03-03 21:07:51,073 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
+INFO 2024-03-03 21:07:51,142 views 2624 14732 Index page accessed
+INFO 2024-03-03 21:07:51,147 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
+INFO 2024-03-03 21:07:51,332 basehttp 2624 14732 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 226
+WARNING 2024-03-03 21:07:51,722 log 2624 14732 Not Found: /favicon.ico
+WARNING 2024-03-03 21:07:51,723 basehttp 2624 14732 "GET /favicon.ico HTTP/1.1" 404 2955
+WARNING 2024-03-03 21:07:51,749 log 2624 14732 Not Found: /favicon.ico
+WARNING 2024-03-03 21:07:51,749 basehttp 2624 14732 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-03 21:07:58,829 views 2624 14732 Index page accessed
+INFO 2024-03-03 21:07:58,831 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
+INFO 2024-03-03 21:07:59,422 views 2624 14732 about page accessed
+INFO 2024-03-03 21:07:59,429 basehttp 2624 14732 "GET /about/ HTTP/1.1" 200 868
+INFO 2024-03-06 08:55:42,857 autoreload 8028 276 Watching for file changes with StatReloader
+INFO 2024-03-06 08:55:46,068 views 8028 11924 Index page accessed
+INFO 2024-03-06 08:55:46,108 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
+INFO 2024-03-06 08:55:46,199 basehttp 8028 11924 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+WARNING 2024-03-06 08:55:46,390 log 8028 11924 Not Found: /favicon.ico
+WARNING 2024-03-06 08:55:46,391 basehttp 8028 11924 "GET /favicon.ico HTTP/1.1" 404 2955
+INFO 2024-03-06 08:55:48,431 views 8028 11924 optika page accessed
+INFO 2024-03-06 08:55:48,438 basehttp 8028 11924 "GET /optika/ HTTP/1.1" 200 463
+INFO 2024-03-06 08:55:50,702 views 8028 11924 radio_wave page accessed
+INFO 2024-03-06 08:55:50,709 basehttp 8028 11924 "GET /radio_wave/ HTTP/1.1" 200 479
+INFO 2024-03-06 08:55:53,726 views 8028 11924 copper page accessed
+INFO 2024-03-06 08:55:53,733 basehttp 8028 11924 "GET /copper/ HTTP/1.1" 200 455
+INFO 2024-03-06 08:55:56,006 views 8028 11924 Index page accessed
+INFO 2024-03-06 08:55:56,008 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
+INFO 2024-03-06 08:55:56,575 views 8028 11924 about page accessed
+INFO 2024-03-06 08:55:56,582 basehttp 8028 11924 "GET /about/ HTTP/1.1" 200 868
+INFO 2024-03-06 08:55:57,414 views 8028 11924 Index page accessed
+INFO 2024-03-06 08:55:57,415 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
