@@ -2,7 +2,11 @@
 
 {% block content%}
 <h1>{{ title }}</h1>
-<li>
-        <a>Добавление клиента</a>
-</li>
+<ul>
+{% for menu in shop_menu %}
+        <li>
+                <a href="{% url menu.url_name %}">{{ menu.title }}</a>
+        </li>
+{% endfor %}
+</ul>
 {% endblock %}

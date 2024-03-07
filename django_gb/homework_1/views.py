@@ -49,11 +49,30 @@ def radio_wave(request):
 
 # Домашнее задание № 2
 def online_store(request):
-    return render(request, 'homework_1/online_store.html', {'title': 'Интернет магазин', 'menu': menu})
+    shop_menu = [
+        {'title': 'Добавление клиента', 'url_name': 'create_client'},
+        {'title': 'Изменение имени клиента', 'url_name': 'update_name_client'},
+        {'title': 'Удаление клиента', 'url_name': 'delete_client'},
+        {'title': 'Получение списка клиентов', 'url_name': 'get_client_all'}
+    ]
+    data = {'title': 'Интернет магазин',
+            'menu': menu,
+            'shop_menu': shop_menu,
+            }
+    return render(request, 'homework_1/online_store.html', context=data)
 
 
 def create_client(request):
-    return render(request, 'homework_1/create_client.html', {'title': 'Добавление клиента', 'url_name': 'create_client',
-                                                             'menu': menu})
+    return render(request, 'homework_1/create_client.html', {'title': 'Добавление клиента', 'menu': menu})
 
 
+def update_name_client(request):
+    return render(request, 'homework_1/update_name_client.html', {'title': 'Изменение имени клиента', 'menu': menu})
+
+
+def get_client_all(request):
+    return render(request, 'homework_1/get_client_all.html', {'title': 'Получение списка клиентов', 'menu': menu})
+
+
+def delete_client(request):
+    return render(request, 'homework_1/delete_client.html', {'title': 'Удаление клиента', 'menu': menu})
