@@ -6,6 +6,7 @@ logger = logging.getLogger(__name__)
 
 menu = [
     {'title': 'Главная страница', 'url_name': 'home'},
+    {'title': 'Интернет Магазин', 'url_name': 'online_store'},
     {'title': 'О сайте', 'url_name': 'about'},
     ]
 
@@ -44,3 +45,15 @@ def copper(request):
 def radio_wave(request):
     logger.info('radio_wave page accessed')
     return render(request, 'homework_1/radio_wave.html', {'title': 'Подключение по радиоволне', 'menu': menu})
+
+
+# Домашнее задание № 2
+def online_store(request):
+    return render(request, 'homework_1/online_store.html', {'title': 'Интернет магазин', 'menu': menu})
+
+
+def create_client(request):
+    return render(request, 'homework_1/create_client.html', {'title': 'Добавление клиента', 'url_name': 'create_client',
+                                                             'menu': menu})
+
+

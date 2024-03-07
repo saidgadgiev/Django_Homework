@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&j_xq$rwae@r0(&8fw$&e7d(4_h#lmte6-ba=1g1vj%@1e$04o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '192.168.0.31',]
 
 
 # Application definition
@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'homework_1.apps.Homework1Config',
+    'gameapp.apps.GameappConfig',
+    'lecture_2',
 ]
 
 MIDDLEWARE = [
@@ -156,6 +158,11 @@ LOGGING = {
             'level': 'INFO',
         },
         'homework_1': {
+            'handlers': ['console', 'file'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
+        'gameapp': {
             'handlers': ['console', 'file'],
             'level': 'DEBUG',
             'propagate': True,

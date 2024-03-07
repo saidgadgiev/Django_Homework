@@ -1,69 +1,15 @@
-INFO 2024-03-03 15:22:36,470 autoreload 6976 10376 Watching for file changes with StatReloader
-INFO 2024-03-03 15:22:40,100 basehttp 6976 5468 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:25:24,031 autoreload 6976 10376 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
-INFO 2024-03-03 15:25:24,803 autoreload 4452 8928 Watching for file changes with StatReloader
-INFO 2024-03-03 15:25:26,492 views 4452 7212 Успешное открытие страницы О сайте
-INFO 2024-03-03 15:25:26,502 basehttp 4452 7212 "GET / HTTP/1.1" 200 355
-DEBUG 2024-03-03 15:25:42,709 views 4452 7212 Успешное открытие страницы О сайте
-INFO 2024-03-03 15:25:42,711 basehttp 4452 7212 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:26:14,294 autoreload 4452 8928 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:26:15,057 autoreload 9892 13748 Watching for file changes with StatReloader
-INFO 2024-03-03 15:26:16,322 views 9892 9544 Index page accessed
-INFO 2024-03-03 15:26:16,333 basehttp 9892 9544 "GET / HTTP/1.1" 200 355
-DEBUG 2024-03-03 15:26:18,806 views 9892 9544 about page accessed
-INFO 2024-03-03 15:26:18,808 basehttp 9892 9544 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:40:15,926 autoreload 9892 13748 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
-INFO 2024-03-03 15:40:16,696 autoreload 7868 15148 Watching for file changes with StatReloader
-INFO 2024-03-03 15:40:43,889 autoreload 7868 15148 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
-INFO 2024-03-03 15:40:44,665 autoreload 7244 15756 Watching for file changes with StatReloader
-INFO 2024-03-03 15:45:44,645 autoreload 7244 15756 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:45:45,423 autoreload 13948 14096 Watching for file changes with StatReloader
-INFO 2024-03-03 15:47:27,315 autoreload 13948 14096 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:47:28,095 autoreload 8760 7828 Watching for file changes with StatReloader
-INFO 2024-03-03 15:47:49,811 autoreload 8760 7828 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:47:50,596 autoreload 5504 14896 Watching for file changes with StatReloader
-INFO 2024-03-03 15:48:40,878 autoreload 5504 14896 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:48:41,639 autoreload 1200 15012 Watching for file changes with StatReloader
-INFO 2024-03-03 15:48:42,707 views 1200 11220 Index page accessed
-INFO 2024-03-03 15:48:42,718 basehttp 1200 11220 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:48:43,622 views 1200 11220 about page accessed
-INFO 2024-03-03 15:48:43,624 basehttp 1200 11220 "GET /about/ HTTP/1.1" 200 373
-INFO 2024-03-03 15:48:44,884 views 1200 11220 Index page accessed
-INFO 2024-03-03 15:48:44,886 basehttp 1200 11220 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:48:47,398 views 1200 11220 about page accessed
-INFO 2024-03-03 15:48:47,399 basehttp 1200 11220 "GET /about/ HTTP/1.1" 200 373
-INFO 2024-03-03 15:49:08,645 autoreload 1200 15012 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:49:09,419 autoreload 15756 9248 Watching for file changes with StatReloader
-INFO 2024-03-03 15:49:10,376 views 15756 9836 about page accessed
-INFO 2024-03-03 15:49:10,387 basehttp 15756 9836 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:49:11,013 views 15756 9836 Index page accessed
-INFO 2024-03-03 15:49:11,015 basehttp 15756 9836 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:49:11,485 views 15756 9836 about page accessed
-INFO 2024-03-03 15:49:11,486 basehttp 15756 9836 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:49:40,628 views 15756 9836 Index page accessed
-INFO 2024-03-03 15:49:40,631 basehttp 15756 9836 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:49:40,692 autoreload 15756 9248 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:49:41,482 autoreload 7296 13156 Watching for file changes with StatReloader
-INFO 2024-03-03 15:49:51,066 views 7296 16260 about page accessed
-INFO 2024-03-03 15:49:51,076 basehttp 7296 16260 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:49:53,879 views 7296 16260 about page accessed
-INFO 2024-03-03 15:49:53,882 basehttp 7296 16260 "GET /optika/ HTTP/1.1" 200 373
-INFO 2024-03-03 15:50:17,930 views 7296 16260 Index page accessed
-INFO 2024-03-03 15:50:17,933 basehttp 7296 16260 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:50:18,287 autoreload 7296 13156 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:50:19,048 autoreload 7348 8528 Watching for file changes with StatReloader
-INFO 2024-03-03 15:50:31,675 views 7348 13632 Index page accessed
-INFO 2024-03-03 15:50:31,686 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:50:32,404 views 7348 13632 about page accessed
-INFO 2024-03-03 15:50:32,406 basehttp 7348 13632 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:50:33,045 views 7348 13632 Index page accessed
-INFO 2024-03-03 15:50:33,046 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:52:16,852 views 7348 13632 about page accessed
-INFO 2024-03-03 15:52:16,854 basehttp 7348 13632 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:52:17,316 views 7348 13632 Index page accessed
-INFO 2024-03-03 15:52:17,317 basehttp 7348 13632 "GET / HTTP/1.1" 200 355
-INFO 2024-03-03 15:55:29,077 views 7348 13632 Index page accessed
-ERROR 2024-03-03 15:55:29,254 log 7348 13632 Internal Server Error: /
+ERROR 2024-03-06 16:10:57,458 log 11000 13964 Internal Server Error: /game/coin/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: gameapp_coin
+
+The above exception was the direct cause of the following exception:
+
 Traceback (most recent call last):
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -71,9 +17,380 @@ Traceback (most recent call last):
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
     response = wrapped_callback(request, *callback_args, **callback_kwargs)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 26, in index
-    return render(request, 'homework_1/index.html', context=data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py", line 16, in coin
+    arg.save()
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: gameapp_coin
+ERROR 2024-03-06 16:10:57,463 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 500 145451
+INFO 2024-03-06 16:12:58,607 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:12:59,765 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:00,773 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:01,899 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:02,942 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:03,782 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:05,573 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:13:06,273 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 8
+INFO 2024-03-06 16:13:07,165 basehttp 11000 13964 "GET /game/coin/ HTTP/1.1" 200 8
+INFO 2024-03-06 16:13:36,917 autoreload 11000 13524 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:13:37,706 autoreload 10460 13904 Watching for file changes with StatReloader
+INFO 2024-03-06 16:13:43,247 basehttp 10460 13644 "GET /game/coin/ HTTP/1.1" 200 8
+INFO 2024-03-06 16:13:44,372 basehttp 10460 13644 "GET /game/coin/ HTTP/1.1" 200 8
+INFO 2024-03-06 16:13:45,155 basehttp 10460 13644 "GET /game/coin/ HTTP/1.1" 200 10
+INFO 2024-03-06 16:17:22,018 autoreload 10460 13904 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:17:22,830 autoreload 12352 8484 Watching for file changes with StatReloader
+INFO 2024-03-06 16:25:57,415 autoreload 12352 8484 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:25:58,238 autoreload 9284 10388 Watching for file changes with StatReloader
+INFO 2024-03-06 16:27:08,665 autoreload 9284 10388 D:\GB\program\Django\Homework_Django\django_gb\gameapp\urls.py changed, reloading.
+INFO 2024-03-06 16:27:09,449 autoreload 11488 10732 Watching for file changes with StatReloader
+ERROR 2024-03-06 16:27:12,484 log 11488 13972 Internal Server Error: /game/coin_value/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: coin_value() takes 0 positional arguments but 1 was given
+ERROR 2024-03-06 16:27:12,485 basehttp 11488 13972 "GET /game/coin_value/ HTTP/1.1" 500 62114
+INFO 2024-03-06 16:27:42,298 autoreload 11488 10732 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:27:43,096 autoreload 12852 10704 Watching for file changes with StatReloader
+INFO 2024-03-06 16:27:44,769 basehttp 12852 11780 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:27:59,164 basehttp 12852 11780 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:28:25,359 autoreload 12852 10704 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:28:26,175 autoreload 10564 10536 Watching for file changes with StatReloader
+INFO 2024-03-06 16:28:32,115 basehttp 10564 2184 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:28:36,651 basehttp 10564 2184 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:29:44,444 autoreload 10564 10536 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:29:45,244 autoreload 13940 6180 Watching for file changes with StatReloader
+INFO 2024-03-06 16:29:47,097 basehttp 13940 4052 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:29:49,043 basehttp 13940 4052 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:30:01,537 basehttp 13940 4052 "GET /game/coin/ HTTP/1.1" 200 8
+INFO 2024-03-06 16:30:13,635 basehttp 13940 4052 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:30:14,931 basehttp 13940 4052 "GET /game/coin_value/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:31:28,849 autoreload 13940 6180 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:31:29,626 autoreload 12628 13540 Watching for file changes with StatReloader
+WARNING 2024-03-06 16:32:25,286 log 12628 13392 Not Found: /game/coin_value/
+WARNING 2024-03-06 16:32:25,287 basehttp 12628 13392 "GET /game/coin_value/ HTTP/1.1" 404 3944
+INFO 2024-03-06 16:33:17,568 autoreload 12628 13540 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:33:18,353 autoreload 10992 14176 Watching for file changes with StatReloader
+WARNING 2024-03-06 16:33:20,528 log 10992 7172 Not Found: /game/coin_value/
+WARNING 2024-03-06 16:33:20,529 basehttp 10992 7172 "GET /game/coin_value/ HTTP/1.1" 404 3944
+WARNING 2024-03-06 16:33:31,405 log 10992 7172 Not Found: /game/coin_value/
+WARNING 2024-03-06 16:33:31,406 basehttp 10992 7172 "GET /game/coin_value/ HTTP/1.1" 404 3944
+WARNING 2024-03-06 16:33:32,708 log 10992 7172 Not Found: /game/coin_value/
+WARNING 2024-03-06 16:33:32,709 basehttp 10992 7172 "GET /game/coin_value/ HTTP/1.1" 404 3944
+INFO 2024-03-06 16:33:38,756 views 10992 7172 Index page accessed
+INFO 2024-03-06 16:33:38,767 basehttp 10992 7172 "GET / HTTP/1.1" 200 673
+INFO 2024-03-06 16:35:51,594 autoreload 2552 13428 Watching for file changes with StatReloader
+INFO 2024-03-06 16:36:08,566 basehttp 2552 13784 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:39:01,969 autoreload 2552 13428 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:39:02,803 autoreload 13088 14240 Watching for file changes with StatReloader
+ERROR 2024-03-06 16:39:04,842 log 13088 12840 Internal Server Error: /game/coin_values/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py", line 27, in coin_values
+    value = Coin.values()
+            ^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py", line 12, in values
+    print(value)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\query.py", line 379, in __repr__
+    return "<%s %r>" % (self.__class__.__name__, data)
+                                                 ^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\db\models\base.py", line 588, in __repr__
+    return "<%s: %s>" % (self.__class__.__name__, self)
+                                                  ^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py", line 15, in __str__
+    return f'timt, {self.time}, site: {site}'
+                                       ^^^^
+NameError: name 'site' is not defined. Did you mean: 'self.site'? Or did you forget to import 'site'
+ERROR 2024-03-06 16:39:04,847 basehttp 13088 12840 "GET /game/coin_values/ HTTP/1.1" 500 78634
+INFO 2024-03-06 16:39:22,881 autoreload 13088 14240 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:39:23,668 autoreload 9832 7320 Watching for file changes with StatReloader
+INFO 2024-03-06 16:39:27,557 autoreload 9832 7320 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:39:28,369 autoreload 10328 11444 Watching for file changes with StatReloader
+INFO 2024-03-06 16:39:30,098 basehttp 10328 10964 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:39:49,487 autoreload 10328 11444 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:39:50,273 autoreload 2592 11788 Watching for file changes with StatReloader
+INFO 2024-03-06 16:39:51,489 basehttp 2592 3656 "GET /game/coin_values/ HTTP/1.1" 200 4
+INFO 2024-03-06 16:42:22,194 autoreload 2592 11788 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:42:22,973 autoreload 11168 11828 Watching for file changes with StatReloader
+INFO 2024-03-06 16:42:32,200 basehttp 11168 14120 "GET /game/coin_values/ HTTP/1.1" 200 4
+INFO 2024-03-06 16:45:15,411 autoreload 11168 11828 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:45:16,234 autoreload 12820 8444 Watching for file changes with StatReloader
+ERROR 2024-03-06 16:45:17,761 log 12820 12316 Internal Server Error: /game/coin_values/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py", line 29, in coin_values
+    for i in value:
+TypeError: 'NoneType' object is not iterable
+ERROR 2024-03-06 16:45:17,763 basehttp 12820 12316 "GET /game/coin_values/ HTTP/1.1" 500 65464
+INFO 2024-03-06 16:46:50,597 autoreload 12820 8444 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:46:51,400 autoreload 1676 11060 Watching for file changes with StatReloader
+INFO 2024-03-06 16:46:52,634 basehttp 1676 8960 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:46:53,611 basehttp 1676 8960 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:47:03,618 basehttp 1676 8960 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:47:03,728 autoreload 1676 11060 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:47:04,524 autoreload 4732 11824 Watching for file changes with StatReloader
+ERROR 2024-03-06 16:47:06,908 log 4732 11624 Internal Server Error: /game/coin_values/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py", line 29, in coin_values
+    for i in value:
+TypeError: 'NoneType' object is not iterable
+ERROR 2024-03-06 16:47:06,910 basehttp 4732 11624 "GET /game/coin_values/ HTTP/1.1" 500 65587
+INFO 2024-03-06 16:47:41,582 autoreload 4732 11824 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:47:42,380 autoreload 9584 1636 Watching for file changes with StatReloader
+INFO 2024-03-06 16:47:46,690 basehttp 9584 8756 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:02,827 basehttp 9584 8756 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:03,523 autoreload 9584 1636 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:48:04,303 autoreload 5376 12916 Watching for file changes with StatReloader
+INFO 2024-03-06 16:48:06,577 basehttp 5376 14076 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:15,277 basehttp 5376 14076 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:23,746 basehttp 5376 14076 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:41,272 autoreload 5376 12916 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:48:42,060 autoreload 7356 11624 Watching for file changes with StatReloader
+INFO 2024-03-06 16:48:43,808 basehttp 7356 828 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:48:45,585 basehttp 7356 828 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:49:14,324 basehttp 7356 828 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:49:14,867 autoreload 7356 11624 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 16:49:15,661 autoreload 11832 9832 Watching for file changes with StatReloader
+INFO 2024-03-06 16:49:17,863 basehttp 11832 13724 "GET /game/coin_values/ HTTP/1.1" 200 5
+INFO 2024-03-06 16:49:33,609 autoreload 11832 9832 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:49:34,391 autoreload 7204 12052 Watching for file changes with StatReloader
+INFO 2024-03-06 16:49:37,146 basehttp 7204 14096 "GET /game/coin_values/ HTTP/1.1" 200 272
+INFO 2024-03-06 16:50:10,341 autoreload 7204 12052 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:50:11,144 autoreload 13892 9344 Watching for file changes with StatReloader
+INFO 2024-03-06 16:50:13,160 basehttp 13892 12924 "GET /game/coin_values/ HTTP/1.1" 200 42
+INFO 2024-03-06 16:50:14,475 basehttp 13892 12924 "GET /game/coin_values/ HTTP/1.1" 200 42
+INFO 2024-03-06 16:50:57,678 autoreload 13892 9344 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 16:50:58,456 autoreload 7240 12320 Watching for file changes with StatReloader
+INFO 2024-03-06 16:51:00,096 basehttp 7240 13736 "GET /game/coin_values/ HTTP/1.1" 200 63
+INFO 2024-03-06 17:02:12,402 autoreload 7240 12320 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:02:13,252 autoreload 12560 11740 Watching for file changes with StatReloader
+INFO 2024-03-06 17:03:36,471 autoreload 12560 11740 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:03:37,297 autoreload 8136 13972 Watching for file changes with StatReloader
+INFO 2024-03-06 17:05:15,250 autoreload 8136 13972 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:05:16,061 autoreload 14176 8052 Watching for file changes with StatReloader
+INFO 2024-03-06 17:05:42,174 autoreload 14176 8052 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:05:42,986 autoreload 12964 8084 Watching for file changes with StatReloader
+INFO 2024-03-06 17:06:05,877 autoreload 12964 8084 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:06:06,751 autoreload 14164 10328 Watching for file changes with StatReloader
+INFO 2024-03-06 17:06:40,289 autoreload 14164 10328 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:06:41,074 autoreload 13200 14088 Watching for file changes with StatReloader
+INFO 2024-03-06 17:09:36,367 autoreload 13200 14088 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:09:37,221 autoreload 12452 13828 Watching for file changes with StatReloader
+INFO 2024-03-06 17:09:52,760 autoreload 12452 13828 D:\GB\program\Django\Homework_Django\django_gb\gameapp\models.py changed, reloading.
+INFO 2024-03-06 17:09:53,574 autoreload 14300 6176 Watching for file changes with StatReloader
+INFO 2024-03-06 17:16:40,286 autoreload 14300 6176 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:16:41,078 autoreload 11132 3236 Watching for file changes with StatReloader
+INFO 2024-03-06 17:18:03,232 autoreload 11132 3236 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:18:04,028 autoreload 14092 11968 Watching for file changes with StatReloader
+INFO 2024-03-06 17:18:47,111 autoreload 14092 11968 D:\GB\program\Django\Homework_Django\django_gb\gameapp\urls.py changed, reloading.
+INFO 2024-03-06 17:18:47,919 autoreload 3456 2172 Watching for file changes with StatReloader
+INFO 2024-03-06 17:18:57,162 basehttp 3456 5568 "GET /game/authors/ HTTP/1.1" 200 7
+INFO 2024-03-06 17:21:21,233 autoreload 3456 2172 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:21:22,015 autoreload 13936 8108 Watching for file changes with StatReloader
+INFO 2024-03-06 17:21:40,700 autoreload 13936 8108 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:21:41,483 autoreload 7416 920 Watching for file changes with StatReloader
+INFO 2024-03-06 17:26:29,831 autoreload 7416 920 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:26:30,619 autoreload 4212 13456 Watching for file changes with StatReloader
+INFO 2024-03-06 17:26:55,650 autoreload 4212 13456 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:26:56,430 autoreload 8228 10692 Watching for file changes with StatReloader
+INFO 2024-03-06 17:27:46,854 autoreload 8228 10692 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:27:47,674 autoreload 12168 13896 Watching for file changes with StatReloader
+INFO 2024-03-06 17:28:38,155 autoreload 12168 13896 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:28:38,988 autoreload 14004 13448 Watching for file changes with StatReloader
+INFO 2024-03-06 17:30:33,962 autoreload 14004 13448 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:30:34,786 autoreload 3856 13204 Watching for file changes with StatReloader
+INFO 2024-03-06 17:31:10,428 autoreload 3856 13204 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:31:11,215 autoreload 14308 5572 Watching for file changes with StatReloader
+INFO 2024-03-06 17:31:41,537 autoreload 14308 5572 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:31:42,329 autoreload 3116 14280 Watching for file changes with StatReloader
+INFO 2024-03-06 17:31:55,740 autoreload 3116 14280 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:31:56,537 autoreload 8524 2128 Watching for file changes with StatReloader
+INFO 2024-03-06 17:33:33,505 autoreload 8524 2128 D:\GB\program\Django\Homework_Django\django_gb\gameapp\views.py changed, reloading.
+INFO 2024-03-06 17:33:34,315 autoreload 13148 14132 Watching for file changes with StatReloader
+INFO 2024-03-06 17:34:11,619 autoreload 14100 14016 Watching for file changes with StatReloader
+INFO 2024-03-06 17:34:56,571 basehttp 14100 7256 "GET /game/authors/ HTTP/1.1" 200 7
+INFO 2024-03-07 09:23:46,212 autoreload 3504 1884 Watching for file changes with StatReloader
+INFO 2024-03-07 09:23:48,224 views 3504 13944 Index page accessed
+INFO 2024-03-07 09:23:48,255 basehttp 3504 13944 "GET / HTTP/1.1" 200 673
+INFO 2024-03-07 09:23:48,305 basehttp 3504 13944 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-07 09:24:14,106 views 3504 13944 about page accessed
+INFO 2024-03-07 09:24:14,109 basehttp 3504 13944 "GET /about/ HTTP/1.1" 200 868
+INFO 2024-03-07 09:24:15,153 views 3504 13944 Index page accessed
+INFO 2024-03-07 09:24:15,154 basehttp 3504 13944 "GET / HTTP/1.1" 200 673
+INFO 2024-03-07 09:25:22,575 autoreload 3504 1884 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
+INFO 2024-03-07 09:25:23,403 autoreload 2744 10772 Watching for file changes with StatReloader
+INFO 2024-03-07 09:26:09,644 autoreload 2744 10772 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
+INFO 2024-03-07 09:26:10,447 autoreload 2456 3608 Watching for file changes with StatReloader
+INFO 2024-03-07 09:31:55,577 autoreload 2456 3608 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 09:31:56,402 autoreload 4520 9344 Watching for file changes with StatReloader
+INFO 2024-03-07 09:32:02,942 views 4520 1348 about page accessed
+INFO 2024-03-07 09:32:02,956 basehttp 4520 1348 "GET /about/ HTTP/1.1" 200 868
+INFO 2024-03-07 09:32:04,433 views 4520 1348 Index page accessed
+INFO 2024-03-07 09:32:04,436 basehttp 4520 1348 "GET / HTTP/1.1" 200 673
+INFO 2024-03-07 09:32:14,153 views 4520 1348 about page accessed
+INFO 2024-03-07 09:32:14,155 basehttp 4520 1348 "GET /about/ HTTP/1.1" 200 868
+INFO 2024-03-07 09:32:16,624 basehttp 4520 1348 "GET /online_store/ HTTP/1.1" 200 445
+INFO 2024-03-07 09:32:18,368 views 4520 1348 Index page accessed
+INFO 2024-03-07 09:32:18,369 basehttp 4520 1348 "GET / HTTP/1.1" 200 673
+INFO 2024-03-07 09:33:09,397 autoreload 4520 9344 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 09:33:10,252 autoreload 4892 12276 Watching for file changes with StatReloader
+INFO 2024-03-07 09:33:13,565 views 4892 5656 Index page accessed
+INFO 2024-03-07 09:33:13,578 basehttp 4892 5656 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 09:33:14,681 basehttp 4892 5656 "GET /online_store/ HTTP/1.1" 200 538
+INFO 2024-03-07 09:33:15,720 views 4892 5656 Index page accessed
+INFO 2024-03-07 09:33:15,721 basehttp 4892 5656 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 09:33:16,233 basehttp 4892 5656 "GET /online_store/ HTTP/1.1" 200 538
+INFO 2024-03-07 09:33:26,784 basehttp 4892 5656 "GET /online_store/ HTTP/1.1" 200 538
+INFO 2024-03-07 09:39:20,347 autoreload 4892 12276 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:39:21,130 autoreload 13756 5216 Watching for file changes with StatReloader
+INFO 2024-03-07 09:40:07,628 autoreload 13756 5216 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:40:08,382 autoreload 12100 3856 Watching for file changes with StatReloader
+INFO 2024-03-07 09:40:25,518 autoreload 12100 3856 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:40:26,405 autoreload 2172 6928 Watching for file changes with StatReloader
+INFO 2024-03-07 09:42:22,920 autoreload 2172 6928 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:42:23,776 autoreload 9544 13336 Watching for file changes with StatReloader
+INFO 2024-03-07 09:43:05,740 autoreload 9544 13336 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:43:06,543 autoreload 912 3456 Watching for file changes with StatReloader
+INFO 2024-03-07 09:46:33,432 autoreload 912 3456 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:46:34,240 autoreload 11828 10776 Watching for file changes with StatReloader
+INFO 2024-03-07 09:47:26,983 autoreload 11828 10776 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:47:27,758 autoreload 8004 11000 Watching for file changes with StatReloader
+INFO 2024-03-07 09:47:57,506 autoreload 8004 11000 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:47:58,293 autoreload 4288 6276 Watching for file changes with StatReloader
+INFO 2024-03-07 09:52:14,802 autoreload 4288 6276 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:52:15,618 autoreload 8108 14172 Watching for file changes with StatReloader
+INFO 2024-03-07 09:53:21,883 autoreload 8108 14172 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:53:22,697 autoreload 9868 13200 Watching for file changes with StatReloader
+INFO 2024-03-07 09:53:59,331 autoreload 9868 13200 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:54:00,126 autoreload 11728 5172 Watching for file changes with StatReloader
+INFO 2024-03-07 09:54:56,860 autoreload 11728 5172 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:54:57,710 autoreload 3104 6892 Watching for file changes with StatReloader
+INFO 2024-03-07 09:55:35,450 autoreload 3104 6892 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:55:36,395 autoreload 13288 11976 Watching for file changes with StatReloader
+INFO 2024-03-07 09:58:50,348 autoreload 13288 11976 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 09:58:51,134 autoreload 12008 3504 Watching for file changes with StatReloader
+INFO 2024-03-07 10:00:20,708 autoreload 12008 3504 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:00:21,560 autoreload 12568 13384 Watching for file changes with StatReloader
+INFO 2024-03-07 10:02:51,262 autoreload 12568 13384 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:02:52,109 autoreload 7320 13644 Watching for file changes with StatReloader
+INFO 2024-03-07 10:03:44,731 autoreload 7320 13644 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:03:45,611 autoreload 12252 3456 Watching for file changes with StatReloader
+INFO 2024-03-07 10:04:30,735 autoreload 12252 3456 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:04:31,541 autoreload 14184 12364 Watching for file changes with StatReloader
+INFO 2024-03-07 10:19:38,573 autoreload 14184 12364 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:19:39,445 autoreload 13904 2132 Watching for file changes with StatReloader
+INFO 2024-03-07 10:21:38,618 autoreload 13904 2132 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:21:39,478 autoreload 5168 2264 Watching for file changes with StatReloader
+INFO 2024-03-07 10:22:41,583 autoreload 5168 2264 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:22:42,402 autoreload 11848 12612 Watching for file changes with StatReloader
+INFO 2024-03-07 10:23:03,728 autoreload 11848 12612 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:23:04,478 autoreload 10280 13248 Watching for file changes with StatReloader
+INFO 2024-03-07 10:23:21,621 autoreload 10280 13248 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:23:22,446 autoreload 11872 5484 Watching for file changes with StatReloader
+INFO 2024-03-07 10:23:41,166 autoreload 11872 5484 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:23:41,967 autoreload 14216 12928 Watching for file changes with StatReloader
+INFO 2024-03-07 10:25:14,954 autoreload 14216 12928 D:\GB\program\Django\Homework_Django\django_gb\homework_1\models.py changed, reloading.
+INFO 2024-03-07 10:25:15,812 autoreload 12176 12236 Watching for file changes with StatReloader
+INFO 2024-03-07 10:35:28,192 autoreload 4056 12928 Watching for file changes with StatReloader
+INFO 2024-03-07 11:39:57,419 views 4056 3232 Index page accessed
+INFO 2024-03-07 11:39:57,455 basehttp 4056 3232 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:39:58,590 views 4056 3232 Index page accessed
+INFO 2024-03-07 11:39:58,592 basehttp 4056 3232 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:40:02,199 basehttp 4056 3232 "GET /online_store/ HTTP/1.1" 200 538
+INFO 2024-03-07 11:47:49,687 autoreload 14800 14816 Watching for file changes with StatReloader
+INFO 2024-03-07 11:47:50,673 views 14800 14868 Index page accessed
+INFO 2024-03-07 11:47:50,686 basehttp 14800 14868 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:47:52,527 basehttp 14800 14868 "GET /online_store/ HTTP/1.1" 200 538
+INFO 2024-03-07 11:56:50,131 basehttp 14800 2972 "GET /online_store/ HTTP/1.1" 200 539
+INFO 2024-03-07 11:56:50,627 views 14800 2972 Index page accessed
+INFO 2024-03-07 11:56:50,630 basehttp 14800 2972 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:56:51,980 views 14800 2972 optika page accessed
+INFO 2024-03-07 11:56:51,983 basehttp 14800 2972 "GET /optika/ HTTP/1.1" 200 556
+INFO 2024-03-07 11:56:52,819 views 14800 2972 Index page accessed
+INFO 2024-03-07 11:56:52,821 basehttp 14800 2972 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:57:18,009 autoreload 14800 14816 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 11:57:18,804 autoreload 10828 15180 Watching for file changes with StatReloader
+INFO 2024-03-07 11:57:19,903 views 10828 11312 Index page accessed
+INFO 2024-03-07 11:57:19,917 basehttp 10828 11312 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 11:57:20,788 basehttp 10828 11312 "GET /online_store/ HTTP/1.1" 200 298
+INFO 2024-03-07 11:57:28,022 autoreload 10828 15180 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 11:57:28,816 autoreload 6252 11640 Watching for file changes with StatReloader
+INFO 2024-03-07 11:57:29,139 basehttp 6252 11932 "GET /online_store/ HTTP/1.1" 200 539
+INFO 2024-03-07 11:59:35,477 autoreload 6252 11640 D:\GB\program\Django\Homework_Django\django_gb\homework_1\urls.py changed, reloading.
+INFO 2024-03-07 11:59:36,292 autoreload 13812 11064 Watching for file changes with StatReloader
+INFO 2024-03-07 12:02:29,306 autoreload 13812 11064 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 12:02:30,106 autoreload 12616 12864 Watching for file changes with StatReloader
+INFO 2024-03-07 12:02:31,561 views 12616 8424 Index page accessed
+INFO 2024-03-07 12:02:31,575 basehttp 12616 8424 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 12:02:32,620 basehttp 12616 8424 "GET /online_store/ HTTP/1.1" 200 539
+INFO 2024-03-07 12:06:40,716 autoreload 12616 12864 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
+INFO 2024-03-07 12:06:41,525 autoreload 3392 15252 Watching for file changes with StatReloader
+ERROR 2024-03-07 12:07:28,386 log 3392 10744 Internal Server Error: /online_store/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 52, in online_store
+    return render(request, 'homework_1/online_store.html', {'title': 'Интернет магазин', 'menu': menu})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
     content = loader.render_to_string(template_name, context, request, using=using)
               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,9 +433,66 @@ Traceback (most recent call last):
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
     return self.render(context)
            ^^^^^^^^^^^^^^^^^^^^
-  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
-    nodelist.append(node.render_annotated(context))
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2024-03-07 12:07:28,395 basehttp 3392 10744 "GET /online_store/ HTTP/1.1" 500 149825
+ERROR 2024-03-07 12:09:06,436 log 3392 10744 Internal Server Error: /online_store/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 52, in online_store
+    return render(request, 'homework_1/online_store.html', {'title': 'Интернет магазин', 'menu': menu})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
     return self.render(context)
            ^^^^^^^^^^^^^^^^^^^^
@@ -131,375 +505,230 @@ Traceback (most recent call last):
   File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
     raise NoReverseMatch(msg)
 django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
-ERROR 2024-03-03 15:55:29,266 basehttp 7348 13632 "GET / HTTP/1.1" 500 161951
-INFO 2024-03-03 15:57:53,003 autoreload 7348 8528 D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py changed, reloading.
-INFO 2024-03-03 15:57:53,777 autoreload 11256 12832 Watching for file changes with StatReloader
-INFO 2024-03-03 15:57:56,088 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:57:56,099 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:57:58,644 views 11256 3168 optika page accessed
-INFO 2024-03-03 15:57:58,647 basehttp 11256 3168 "GET /optika/ HTTP/1.1" 200 373
-INFO 2024-03-03 15:58:00,748 views 11256 3168 copper page accessed
-INFO 2024-03-03 15:58:00,750 basehttp 11256 3168 "GET /copper/ HTTP/1.1" 200 365
-INFO 2024-03-03 15:58:02,539 views 11256 3168 radio_wave page accessed
-INFO 2024-03-03 15:58:02,541 basehttp 11256 3168 "GET /radio_wave/ HTTP/1.1" 200 389
-INFO 2024-03-03 15:58:15,677 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:15,679 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:19,477 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:19,479 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:25,268 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:25,269 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:28,149 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:28,151 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:29,957 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:29,959 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:30,612 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:30,614 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:31,468 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:31,470 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:31,972 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:31,974 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:33,205 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:33,206 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:36,813 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:36,815 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:37,269 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:37,270 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:37,645 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:37,646 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:38,214 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:38,215 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 15:58:38,645 views 11256 3168 Index page accessed
-INFO 2024-03-03 15:58:38,646 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 15:58:39,109 views 11256 3168 about page accessed
-INFO 2024-03-03 15:58:39,110 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 319
-INFO 2024-03-03 16:01:00,239 views 11256 3168 Index page accessed
-INFO 2024-03-03 16:01:00,243 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 16:01:01,398 views 11256 3168 about page accessed
-INFO 2024-03-03 16:01:01,405 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
-INFO 2024-03-03 16:01:39,876 views 11256 3168 about page accessed
-INFO 2024-03-03 16:01:39,878 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
-INFO 2024-03-03 16:01:40,356 views 11256 3168 Index page accessed
-INFO 2024-03-03 16:01:40,357 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 16:01:41,821 views 11256 3168 about page accessed
-INFO 2024-03-03 16:01:41,822 basehttp 11256 3168 "GET /about/ HTTP/1.1" 200 778
-INFO 2024-03-03 16:01:42,293 views 11256 3168 Index page accessed
-INFO 2024-03-03 16:01:42,294 basehttp 11256 3168 "GET / HTTP/1.1" 200 583
-INFO 2024-03-03 16:07:29,098 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:29,121 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:07:29,207 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
-INFO 2024-03-03 16:07:31,299 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:31,301 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:07:32,356 views 11256 11396 about page accessed
-INFO 2024-03-03 16:07:32,358 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:07:33,548 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:33,549 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:07:34,301 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:07:34,303 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:07:35,268 views 11256 11396 about page accessed
-INFO 2024-03-03 16:07:35,269 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:07:36,180 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:36,182 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:07:36,795 views 11256 11396 copper page accessed
-INFO 2024-03-03 16:07:36,797 basehttp 11256 11396 "GET /copper/ HTTP/1.1" 200 454
-INFO 2024-03-03 16:07:37,603 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:37,605 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:07:38,452 views 11256 11396 radio_wave page accessed
-INFO 2024-03-03 16:07:38,454 basehttp 11256 11396 "GET /radio_wave/ HTTP/1.1" 200 478
-INFO 2024-03-03 16:07:39,435 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:07:39,436 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:09,930 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:09,932 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:12,299 views 11256 11396 about page accessed
-INFO 2024-03-03 16:10:12,300 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:10:13,090 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:13,092 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:39,643 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:39,644 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:40,314 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:40,315 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:46,714 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:46,715 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:47,570 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:47,571 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:58,427 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:58,429 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:10:59,569 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:10:59,571 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:01,619 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:11:01,621 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:01,654 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7270
-WARNING 2024-03-03 16:11:01,733 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:11:01,733 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:11:07,434 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:11:07,436 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:07,466 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
-INFO 2024-03-03 16:11:15,727 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:11:15,730 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:15,769 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7333
-WARNING 2024-03-03 16:11:15,828 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:11:15,828 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:11:21,978 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:11:21,980 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:22,011 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 7382
-INFO 2024-03-03 16:11:23,963 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:11:23,965 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:11:23,991 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:11:25,459 views 11256 11396 about page accessed
-INFO 2024-03-03 16:11:25,460 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:11:25,488 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:11:27,036 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:11:27,037 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:11:27,063 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:11:51,715 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:11:51,717 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:11:51,747 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:11:52,939 views 11256 11396 about page accessed
-INFO 2024-03-03 16:11:52,940 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:12:30,503 views 11256 11396 about page accessed
-INFO 2024-03-03 16:12:30,505 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:12:30,545 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6647
-WARNING 2024-03-03 16:12:30,607 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:12:30,608 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:12:31,195 views 11256 11396 about page accessed
-INFO 2024-03-03 16:12:31,196 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:12:31,222 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6647
-WARNING 2024-03-03 16:12:31,287 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:12:31,288 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:12:34,204 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:12:34,206 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:12:34,235 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:12:35,844 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:12:35,845 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:12:35,871 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:12:46,075 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:12:46,077 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:12:46,106 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6579
-WARNING 2024-03-03 16:12:46,162 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:12:46,163 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:12:46,687 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:12:46,689 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:12:46,714 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6579
-WARNING 2024-03-03 16:12:46,777 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:12:46,778 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:13:08,682 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:08,684 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:08,713 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
-WARNING 2024-03-03 16:13:08,772 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:13:08,772 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:13:17,831 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:17,833 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:17,864 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6089
-WARNING 2024-03-03 16:13:17,919 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:13:17,920 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:13:18,634 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:18,636 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:18,662 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6089
-WARNING 2024-03-03 16:13:18,714 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:13:18,715 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:13:24,169 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:24,170 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:24,199 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
-INFO 2024-03-03 16:13:24,921 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:24,923 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:24,946 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:13:26,076 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:26,078 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:26,102 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:13:26,761 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:26,762 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:26,787 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:13:28,591 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:13:28,593 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:13:28,619 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 6225
-WARNING 2024-03-03 16:13:28,680 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:13:28,681 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:14:17,736 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:17,738 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:17,773 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
-WARNING 2024-03-03 16:14:17,835 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:14:17,836 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:14:18,466 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:18,468 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:18,492 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
-WARNING 2024-03-03 16:14:18,553 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:14:18,554 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:14:18,858 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:18,860 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:18,886 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
-WARNING 2024-03-03 16:14:18,932 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:14:18,933 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:14:42,863 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:42,865 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:42,896 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 118
-WARNING 2024-03-03 16:14:42,941 log 11256 11396 Not Found: /favicon.ico
-WARNING 2024-03-03 16:14:42,942 basehttp 11256 11396 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 16:14:45,195 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:14:45,197 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:14:45,227 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:14:46,251 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:46,253 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:46,279 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:14:47,634 views 11256 11396 copper page accessed
-INFO 2024-03-03 16:14:47,635 basehttp 11256 11396 "GET /copper/ HTTP/1.1" 200 454
-INFO 2024-03-03 16:14:47,662 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:14:49,204 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:49,206 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:49,232 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:14:54,057 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:14:54,059 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:14:54,086 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
-INFO 2024-03-03 16:15:08,012 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:15:08,014 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:15:08,041 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:15:08,643 views 11256 11396 about page accessed
-INFO 2024-03-03 16:15:08,644 basehttp 11256 11396 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 16:15:35,811 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:15:35,813 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 16:15:35,846 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:16:20,221 views 11256 11396 optika page accessed
-INFO 2024-03-03 16:16:20,224 basehttp 11256 11396 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 16:16:20,254 basehttp 11256 11396 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 16:16:21,875 views 11256 11396 Index page accessed
-INFO 2024-03-03 16:16:21,877 basehttp 11256 11396 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 18:58:27,762 views 11256 1776 Index page accessed
-INFO 2024-03-03 18:58:27,764 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 18:58:27,794 basehttp 11256 1776 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 18:58:28,510 views 11256 1776 about page accessed
-INFO 2024-03-03 18:58:28,512 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 18:58:29,671 views 11256 1776 Index page accessed
-INFO 2024-03-03 18:58:29,673 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 18:59:02,943 views 11256 1776 about page accessed
-INFO 2024-03-03 18:59:02,945 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 18:59:35,030 views 11256 1776 about page accessed
-INFO 2024-03-03 18:59:35,036 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
-INFO 2024-03-03 18:59:37,495 views 11256 1776 about page accessed
-INFO 2024-03-03 18:59:37,497 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
-INFO 2024-03-03 18:59:38,086 views 11256 1776 Index page accessed
-INFO 2024-03-03 18:59:38,088 basehttp 11256 1776 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 18:59:38,822 views 11256 1776 about page accessed
-INFO 2024-03-03 18:59:38,824 basehttp 11256 1776 "GET /about/ HTTP/1.1" 200 860
-INFO 2024-03-03 19:09:02,422 views 11256 12212 about page accessed
-INFO 2024-03-03 19:09:02,425 basehttp 11256 12212 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 19:09:05,869 views 11256 12212 Index page accessed
-INFO 2024-03-03 19:09:05,873 basehttp 11256 12212 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:55:23,027 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:55:23,029 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:55:23,055 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 19:56:41,347 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:56:41,350 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:56:42,250 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:56:42,252 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:56:43,043 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:56:43,044 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:56:45,469 views 11256 15532 about page accessed
-INFO 2024-03-03 19:56:45,471 basehttp 11256 15532 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 19:56:46,197 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:56:46,199 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:57:02,526 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:57:02,528 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:57:02,561 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
-WARNING 2024-03-03 19:57:02,639 log 11256 15532 Not Found: /favicon.ico
-WARNING 2024-03-03 19:57:02,640 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 19:57:03,278 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:57:03,280 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:57:03,307 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
-WARNING 2024-03-03 19:57:03,374 log 11256 15532 Not Found: /favicon.ico
-WARNING 2024-03-03 19:57:03,375 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 19:57:03,672 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:57:03,674 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:57:03,698 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
-WARNING 2024-03-03 19:57:03,762 log 11256 15532 Not Found: /favicon.ico
-WARNING 2024-03-03 19:57:03,762 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 19:57:04,002 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:57:04,003 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 19:57:04,028 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 164
-WARNING 2024-03-03 19:57:04,085 log 11256 15532 Not Found: /favicon.ico
-WARNING 2024-03-03 19:57:04,086 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 19:57:41,961 views 11256 15532 about page accessed
-INFO 2024-03-03 19:57:41,962 basehttp 11256 15532 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 19:57:42,084 basehttp 11256 15532 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 167
-WARNING 2024-03-03 19:57:42,197 log 11256 15532 Not Found: /favicon.ico
-WARNING 2024-03-03 19:57:42,197 basehttp 11256 15532 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 19:57:44,092 views 11256 15532 Index page accessed
-INFO 2024-03-03 19:57:44,094 basehttp 11256 15532 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:25:50,071 views 11256 14608 optika page accessed
-INFO 2024-03-03 20:25:50,075 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 20:25:50,105 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:25:52,524 views 11256 14608 copper page accessed
-INFO 2024-03-03 20:25:52,526 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
-INFO 2024-03-03 20:25:57,509 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:25:57,511 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:26:38,996 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:26:38,998 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:26:39,024 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 226
-WARNING 2024-03-03 20:26:39,073 log 11256 14608 Not Found: /favicon.ico
-WARNING 2024-03-03 20:26:39,074 basehttp 11256 14608 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 20:26:53,923 views 11256 14608 optika page accessed
-INFO 2024-03-03 20:26:53,925 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 20:26:53,961 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:26:56,508 views 11256 14608 copper page accessed
-INFO 2024-03-03 20:26:56,510 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
-INFO 2024-03-03 20:26:56,533 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:26:58,523 views 11256 14608 radio_wave page accessed
-INFO 2024-03-03 20:26:58,525 basehttp 11256 14608 "GET /radio_wave/ HTTP/1.1" 200 478
-INFO 2024-03-03 20:26:58,557 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:27:02,580 views 11256 14608 optika page accessed
-INFO 2024-03-03 20:27:02,582 basehttp 11256 14608 "GET /optika/ HTTP/1.1" 200 462
-INFO 2024-03-03 20:27:02,605 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:27:04,572 views 11256 14608 copper page accessed
-INFO 2024-03-03 20:27:04,573 basehttp 11256 14608 "GET /copper/ HTTP/1.1" 200 454
-INFO 2024-03-03 20:27:06,468 views 11256 14608 radio_wave page accessed
-INFO 2024-03-03 20:27:06,469 basehttp 11256 14608 "GET /radio_wave/ HTTP/1.1" 200 478
-INFO 2024-03-03 20:27:06,494 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:27:48,428 views 11256 14608 about page accessed
-INFO 2024-03-03 20:27:48,429 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 20:27:48,457 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:27:52,677 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:27:52,680 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:28:05,549 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:28:05,551 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:28:05,584 basehttp 11256 14608 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-INFO 2024-03-03 20:28:06,164 views 11256 14608 about page accessed
-INFO 2024-03-03 20:28:06,166 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 20:28:06,859 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:28:06,861 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:28:07,484 views 11256 14608 about page accessed
-INFO 2024-03-03 20:28:07,486 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 20:28:08,045 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:28:08,047 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 20:28:08,603 views 11256 14608 about page accessed
-INFO 2024-03-03 20:28:08,605 basehttp 11256 14608 "GET /about/ HTTP/1.1" 200 867
-INFO 2024-03-03 20:28:09,451 views 11256 14608 Index page accessed
-INFO 2024-03-03 20:28:09,453 basehttp 11256 14608 "GET / HTTP/1.1" 200 672
-INFO 2024-03-03 21:07:48,001 autoreload 2624 8876 Watching for file changes with StatReloader
-INFO 2024-03-03 21:07:50,994 views 2624 14732 Index page accessed
-INFO 2024-03-03 21:07:51,073 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
-INFO 2024-03-03 21:07:51,142 views 2624 14732 Index page accessed
-INFO 2024-03-03 21:07:51,147 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
-INFO 2024-03-03 21:07:51,332 basehttp 2624 14732 "GET /static/homework_1/css/styles.css HTTP/1.1" 200 226
-WARNING 2024-03-03 21:07:51,722 log 2624 14732 Not Found: /favicon.ico
-WARNING 2024-03-03 21:07:51,723 basehttp 2624 14732 "GET /favicon.ico HTTP/1.1" 404 2955
-WARNING 2024-03-03 21:07:51,749 log 2624 14732 Not Found: /favicon.ico
-WARNING 2024-03-03 21:07:51,749 basehttp 2624 14732 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-03 21:07:58,829 views 2624 14732 Index page accessed
-INFO 2024-03-03 21:07:58,831 basehttp 2624 14732 "GET / HTTP/1.1" 200 673
-INFO 2024-03-03 21:07:59,422 views 2624 14732 about page accessed
-INFO 2024-03-03 21:07:59,429 basehttp 2624 14732 "GET /about/ HTTP/1.1" 200 868
-INFO 2024-03-06 08:55:42,857 autoreload 8028 276 Watching for file changes with StatReloader
-INFO 2024-03-06 08:55:46,068 views 8028 11924 Index page accessed
-INFO 2024-03-06 08:55:46,108 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
-INFO 2024-03-06 08:55:46,199 basehttp 8028 11924 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
-WARNING 2024-03-06 08:55:46,390 log 8028 11924 Not Found: /favicon.ico
-WARNING 2024-03-06 08:55:46,391 basehttp 8028 11924 "GET /favicon.ico HTTP/1.1" 404 2955
-INFO 2024-03-06 08:55:48,431 views 8028 11924 optika page accessed
-INFO 2024-03-06 08:55:48,438 basehttp 8028 11924 "GET /optika/ HTTP/1.1" 200 463
-INFO 2024-03-06 08:55:50,702 views 8028 11924 radio_wave page accessed
-INFO 2024-03-06 08:55:50,709 basehttp 8028 11924 "GET /radio_wave/ HTTP/1.1" 200 479
-INFO 2024-03-06 08:55:53,726 views 8028 11924 copper page accessed
-INFO 2024-03-06 08:55:53,733 basehttp 8028 11924 "GET /copper/ HTTP/1.1" 200 455
-INFO 2024-03-06 08:55:56,006 views 8028 11924 Index page accessed
-INFO 2024-03-06 08:55:56,008 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
-INFO 2024-03-06 08:55:56,575 views 8028 11924 about page accessed
-INFO 2024-03-06 08:55:56,582 basehttp 8028 11924 "GET /about/ HTTP/1.1" 200 868
-INFO 2024-03-06 08:55:57,414 views 8028 11924 Index page accessed
-INFO 2024-03-06 08:55:57,415 basehttp 8028 11924 "GET / HTTP/1.1" 200 673
+ERROR 2024-03-07 12:09:06,445 basehttp 3392 10744 "GET /online_store/ HTTP/1.1" 500 149825
+INFO 2024-03-07 12:09:07,472 views 3392 10744 Index page accessed
+ERROR 2024-03-07 12:09:07,553 log 3392 10744 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endfor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 27, in index
+    return render(request, 'homework_1/index.html', context=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 9: 'endfor', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2024-03-07 12:09:07,565 basehttp 3392 10744 "GET / HTTP/1.1" 500 165700
+INFO 2024-03-07 12:09:08,880 views 3392 10744 Index page accessed
+ERROR 2024-03-07 12:09:08,944 log 3392 10744 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endfor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 27, in index
+    return render(request, 'homework_1/index.html', context=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 9: 'endfor', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2024-03-07 12:09:08,953 basehttp 3392 10744 "GET / HTTP/1.1" 500 165837
+INFO 2024-03-07 12:12:18,648 views 3392 1668 Index page accessed
+INFO 2024-03-07 12:12:18,651 basehttp 3392 1668 "GET / HTTP/1.1" 200 766
+ERROR 2024-03-07 12:12:21,874 log 3392 1668 Internal Server Error: /online_store/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\homework_1\views.py", line 52, in online_store
+    return render(request, 'homework_1/online_store.html', {'title': 'Интернет магазин', 'menu': menu})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2024-03-07 12:12:21,884 basehttp 3392 1668 "GET /online_store/ HTTP/1.1" 500 149625
+INFO 2024-03-07 12:13:26,632 views 3392 12488 Index page accessed
+INFO 2024-03-07 12:13:26,634 basehttp 3392 12488 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 12:15:08,247 views 3392 12488 Index page accessed
+INFO 2024-03-07 12:15:08,250 basehttp 3392 12488 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 12:15:10,248 views 3392 12488 Index page accessed
+INFO 2024-03-07 12:15:10,249 basehttp 3392 12488 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 12:15:10,888 basehttp 3392 12488 "GET /online_store/ HTTP/1.1" 200 600
+INFO 2024-03-07 12:16:39,182 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:16:40,504 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:16:41,143 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:17:18,369 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:17:19,537 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:17:20,249 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:17:44,216 views 3392 10844 Index page accessed
+INFO 2024-03-07 12:17:44,219 basehttp 3392 10844 "GET / HTTP/1.1" 200 766
+INFO 2024-03-07 12:17:45,506 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 596
+INFO 2024-03-07 12:18:13,101 basehttp 3392 10844 "GET /online_store/ HTTP/1.1" 200 600

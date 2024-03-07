@@ -8,4 +8,6 @@ urlpatterns = [
     path('optika/', views.optika, name='optika'),  # оптика
     path('copper/', views.copper, name='copper'),  # медь
     path('radio_wave/', views.radio_wave, name='radio_wave'),  # радиоволна
+    path('online_store/', views.online_store, name='online_store'),  # Интернет магазин
+    path('create_client/', views.create_client, name='create_client'),  # Добавление клиента
 ]
