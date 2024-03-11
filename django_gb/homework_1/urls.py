@@ -13,4 +13,8 @@ urlpatterns = [
     path('update_name_client/', views.update_name_client, name='update_name_client'),  # Изменение имени клиента
     path('get_client_all/', views.get_client_all, name='get_client_all'),  # Получение списка клиентов
     path('delete_client/', views.delete_client, name='delete_client'),  # Удаление клиента
+    path('get_product_all/', views.get_product_all, name='get_product_all'),  # Получение списка продуктов
+    path('orders/', views.orders, name='orders'),  # Вывод списка заказов
+    path('get_product_client_day/', views.get_product_client_day, name='get_product_client_day'),  # выбора клиента и кол дней
+    path('shop/client_products_sorted/<int:id_client>/<int:days>/', views.client_products_sorted, name='client_products_sorted'), # вывод всех товаров по клиенту за последние кол дней
 ]

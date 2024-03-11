@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content%}
+<h1>{{ title }}</h1>
+
+{% for order in orders %}
+        <p>
+            id заказа={{ order.id }} <br>
+            Клиент: id={{order.client.id}} {{ order.client }} <br>
+            {{ order.product.all }}
+            <br> общая стоимость заказа: {{ order.order_summ }} <br>
+            дата создания заказа: {{ order.date_order }} <br>
+        </p>
+        <br>
+{% endfor %}
+
+{% endblock %}

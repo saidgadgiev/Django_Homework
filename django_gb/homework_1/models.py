@@ -9,14 +9,13 @@ class Client(models.Model):
     date_registration = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f'Имя клиента: {self.name}, email: {self.email}, номер телефона: {self.phone_number}'
+        return f'Имя клиента: {self.name}'
 
 
 class Product(models.Model):
     product_name = models.CharField(max_length=30)
-    product_description = models.TextField
     cost = models.DecimalField(max_digits=6, decimal_places=2)
-    quantity_product = models.IntegerField()
+    quantity_product = models.IntegerField()  # Количества продукта
     data_add = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):

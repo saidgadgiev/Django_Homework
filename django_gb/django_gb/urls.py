@@ -22,5 +22,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('homework_1.urls')),
     path('game/', include('gameapp.urls')),
-    path('lecture_2/', include('lecture_2.urls')),
+    path('lec2/', include('lecture_2.urls')),
+    path('lec3/', include('lecture_3.urls')),
 ]

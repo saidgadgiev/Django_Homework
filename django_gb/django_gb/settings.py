@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'homework_1.apps.Homework1Config',
     'gameapp.apps.GameappConfig',
     'lecture_2',
+    'lecture_3',
+
 ]
 
 MIDDLEWARE = [

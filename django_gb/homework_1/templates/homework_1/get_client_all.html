@@ -2,6 +2,9 @@
 
 {% block content%}
 <h1>{{ title }}</h1>
-<p>В стадии разработки введите в командной строке "python manage.py read_client" чтение из БД </p>
+
+{% for client in clients %}
+    <p>id: {{ client.id }} Имя клиента: {{ client.name }} Email: {{ client.email }} телефон: {{ client.phone_number }} аддресс: {{ client.address }}</p>
+{% endfor %}
 
 {% endblock %}
