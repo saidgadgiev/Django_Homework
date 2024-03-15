@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'gameapp.apps.GameappConfig',
     'lecture_2',
     'lecture_3',
+    'lecture_4',
 
 ]
 
@@ -123,6 +124,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = 'static/'
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
@@ -165,6 +168,11 @@ LOGGING = {
             'propagate': True,
         },
         'gameapp': {
+            'handlers': ['console', 'file'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
+        'lecture_4': {
             'handlers': ['console', 'file'],
             'level': 'DEBUG',
             'propagate': True,

@@ -4,6 +4,6 @@
 <h1>{{ title }}</h1>
 
 {% for product in products %}
-    <p>id: {{ product.id }} Название продукта: {{ product.product_name }} Цена продукта: {{ product.cost }}</p>
+    <p>id: {{ product.id }} Название продукта: {{ product.product_name }} Цена продукта: {{ product.cost }} Описание продукта: {{product.product_description}}</p>
 {% endfor %}
 {% endblock %}

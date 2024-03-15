@@ -5,8 +5,11 @@
 <h3>{{ message }}</h3>
 <form action="" method="post">
     {% csrf_token %}
-    {{ form.as_div }}
-    <input type="submit" value="Отправить">
+<!--    {{ form.as_div }}-->
+<!--    <input type="submit" value="Отправить">-->
+    {{ form.as_p }}
+    <button type="submit">сохранить</button>
+
 </form>
 
 {% endblock %}

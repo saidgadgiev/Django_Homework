@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content%}
+<h1>{{ title }}</h1>
+<h3>{{ message }} Товар : {{product.product_name}}, id={{product.id}}</h3>
+<form action="" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Загрузить и сохранить</button>
+
+</form>
+
+{% endblock %}
