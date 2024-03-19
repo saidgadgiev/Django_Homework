@@ -1,0 +1,146 @@
+INFO 2024-03-18 16:34:11,381 autoreload 7284 2184 Watching for file changes with StatReloader
+INFO 2024-03-18 16:34:29,005 views 7284 8628 Index page accessed
+INFO 2024-03-18 16:34:29,069 basehttp 7284 8628 "GET / HTTP/1.1" 200 10740
+INFO 2024-03-18 16:34:29,123 basehttp 7284 11276 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-03-18 16:34:29,124 basehttp 7284 8628 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-03-18 16:34:29,144 basehttp 7284 8628 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-03-18 16:34:29,187 basehttp 7284 8628 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-03-18 16:39:54,690 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=HistoryPanel HTTP/1.1" 200 2505
+INFO 2024-03-18 16:39:54,705 basehttp 7284 7120 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2024-03-18 16:40:10,538 basehttp 7284 7120 "GET /__debug__/history_sidebar/?store_id=941923bac1c14cd99a75b90b1e5685a8&exclude_history=True HTTP/1.1" 200 10764
+INFO 2024-03-18 16:40:13,016 basehttp 7284 7120 "GET /__debug__/history_sidebar/?store_id=941923bac1c14cd99a75b90b1e5685a8&exclude_history=True HTTP/1.1" 200 10764
+INFO 2024-03-18 16:40:18,375 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2024-03-18 16:40:39,334 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=SettingsPanel HTTP/1.1" 200 27341
+INFO 2024-03-18 16:41:00,761 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=HeadersPanel HTTP/1.1" 200 5390
+INFO 2024-03-18 16:41:42,900 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=RequestPanel HTTP/1.1" 200 2313
+INFO 2024-03-18 16:42:20,820 basehttp 7284 7120 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=SQLPanel HTTP/1.1" 200 428
+INFO 2024-03-18 17:22:13,587 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=StaticFilesPanel HTTP/1.1" 200 34294
+INFO 2024-03-18 17:22:28,802 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=TemplatesPanel HTTP/1.1" 200 8621
+INFO 2024-03-18 17:23:07,729 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2024-03-18 17:23:09,990 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=941923bac1c14cd99a75b90b1e5685a8&panel_id=SignalsPanel HTTP/1.1" 200 2320
+INFO 2024-03-18 17:23:30,217 basehttp 7284 2568 "GET /online_store/ HTTP/1.1" 200 11398
+INFO 2024-03-18 17:23:30,261 basehttp 7284 2568 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:30,261 basehttp 7284 14248 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:30,275 basehttp 7284 2568 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:30,285 basehttp 7284 2568 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:35,041 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=f7744a830d0c4a259bb91b11ab24e418&panel_id=TemplatesPanel HTTP/1.1" 200 11215
+INFO 2024-03-18 17:23:49,703 views 7284 2568 Index page accessed
+INFO 2024-03-18 17:23:49,727 basehttp 7284 2568 "GET / HTTP/1.1" 200 10740
+INFO 2024-03-18 17:23:50,600 views 7284 2568 copper page accessed
+INFO 2024-03-18 17:23:50,631 basehttp 7284 2568 "GET /copper/ HTTP/1.1" 200 10531
+INFO 2024-03-18 17:23:51,735 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=728b5db4ba3e4dbda8356b37ad67357b&panel_id=TemplatesPanel HTTP/1.1" 200 7821
+INFO 2024-03-18 17:24:00,553 basehttp 7284 2568 "GET /online_store/ HTTP/1.1" 200 11398
+INFO 2024-03-18 17:24:01,168 views 7284 2568 Страница "Список продуктов" успешно открыта
+INFO 2024-03-18 17:24:01,528 basehttp 7284 2568 "GET /get_product_all/ HTTP/1.1" 200 14355
+INFO 2024-03-18 17:24:03,158 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=27157b87645d4209a7cc42b2b7326eab&panel_id=SignalsPanel HTTP/1.1" 200 2320
+INFO 2024-03-18 17:24:05,432 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=27157b87645d4209a7cc42b2b7326eab&panel_id=SQLPanel HTTP/1.1" 200 18465
+INFO 2024-03-18 17:25:07,620 basehttp 7284 2568 "GET /online_store/ HTTP/1.1" 200 11841
+INFO 2024-03-18 17:25:09,276 basehttp 7284 2568 "GET /create_client/ HTTP/1.1" 200 11882
+INFO 2024-03-18 17:25:10,754 basehttp 7284 2568 "GET /__debug__/render_panel/?store_id=f6e36e059d874639838a53315dbea4b4&panel_id=ProfilingPanel HTTP/1.1" 200 43616
+INFO 2024-03-19 10:04:33,491 autoreload 1008 4604 Watching for file changes with StatReloader
+INFO 2024-03-19 10:04:35,752 views 1008 6768 Index page accessed
+INFO 2024-03-19 10:04:36,036 basehttp 1008 6768 "GET / HTTP/1.1" 200 11184
+INFO 2024-03-19 10:04:36,082 basehttp 1008 6768 "GET /static/homework_1/css/styles.css HTTP/1.1" 304 0
+INFO 2024-03-19 10:04:36,089 basehttp 1008 14308 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-03-19 10:04:36,089 basehttp 1008 11500 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-03-19 10:04:36,104 basehttp 1008 14308 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-03-19 10:04:36,125 basehttp 1008 14308 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-03-19 10:04:51,490 log 1008 14308 Not Found: /lect6
+WARNING 2024-03-19 10:04:51,491 basehttp 1008 14308 "GET /lect6 HTTP/1.1" 404 16309
+WARNING 2024-03-19 10:05:04,771 log 1008 14308 Not Found: /lect6/
+WARNING 2024-03-19 10:05:04,772 basehttp 1008 14308 "GET /lect6/ HTTP/1.1" 404 16313
+WARNING 2024-03-19 10:05:23,423 log 1008 14308 Not Found: /lect6/db
+WARNING 2024-03-19 10:05:23,424 basehttp 1008 14308 "GET /lect6/db HTTP/1.1" 404 16321
+WARNING 2024-03-19 10:05:34,371 log 1008 14308 Not Found: /lect6/db
+WARNING 2024-03-19 10:05:34,371 basehttp 1008 14308 "GET /lect6/db HTTP/1.1" 404 16321
+INFO 2024-03-19 10:07:30,557 views 1008 14308 Index page accessed
+INFO 2024-03-19 10:07:30,593 basehttp 1008 14308 "GET / HTTP/1.1" 200 11183
+WARNING 2024-03-19 10:07:35,815 log 1008 14308 Not Found: /lec4
+WARNING 2024-03-19 10:07:35,816 basehttp 1008 14308 "GET /lec4 HTTP/1.1" 404 16305
+WARNING 2024-03-19 10:07:40,344 log 1008 14308 Not Found: /lec5
+WARNING 2024-03-19 10:07:40,345 basehttp 1008 14308 "GET /lec5 HTTP/1.1" 404 16305
+WARNING 2024-03-19 10:07:54,664 log 1008 14308 Not Found: /lec5/
+WARNING 2024-03-19 10:07:54,664 basehttp 1008 14308 "GET /lec5/ HTTP/1.1" 404 16309
+WARNING 2024-03-19 10:08:13,821 log 1008 14308 Not Found: /lec4/
+WARNING 2024-03-19 10:08:13,821 basehttp 1008 14308 "GET /lec4/ HTTP/1.1" 404 16920
+INFO 2024-03-19 10:08:29,684 basehttp 1008 14308 "GET /lec4/forms HTTP/1.1" 200 10866
+INFO 2024-03-19 10:08:29,710 basehttp 1008 11500 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-03-19 10:08:30,524 basehttp 1008 11500 "GET /lec4/forms HTTP/1.1" 200 10866
+INFO 2024-03-19 10:08:57,846 basehttp 1008 6768 "GET /lec6/db HTTP/1.1" 200 10857
+INFO 2024-03-19 10:09:21,311 basehttp 1008 13188 "GET /lec6/db/ HTTP/1.1" 200 10913
+INFO 2024-03-19 10:10:02,047 basehttp 1008 13188 "GET /__debug__/render_panel/?store_id=c011eaf06c21471ebbd84e5b0b34836f&panel_id=SQLPanel HTTP/1.1" 200 5405
+ERROR 2024-03-19 10:10:39,970 log 1008 13188 Internal Server Error: /lec6/view/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\lecture_6\views.py", line 23, in total_in_view
+    return render(request, 'myapp6/total_count.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp6/total_count.html
+ERROR 2024-03-19 10:10:40,051 basehttp 1008 13188 "GET /lec6/view/ HTTP/1.1" 500 96044
+ERROR 2024-03-19 10:11:00,057 log 1008 13188 Internal Server Error: /lec6/view/
+Traceback (most recent call last):
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\django_gb\lecture_6\views.py", line 23, in total_in_view
+    return render(request, 'myapp6/total_count.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\GB\program\Django\Homework_Django\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp6/total_count.html
+ERROR 2024-03-19 10:11:00,117 basehttp 1008 13188 "GET /lec6/view/ HTTP/1.1" 500 96180
+INFO 2024-03-19 10:12:03,244 autoreload 1008 4604 D:\GB\program\Django\Homework_Django\django_gb\lecture_6\views.py changed, reloading.
+INFO 2024-03-19 10:12:04,267 autoreload 8592 13716 Watching for file changes with StatReloader
+INFO 2024-03-19 10:12:08,502 basehttp 8592 6600 "GET /lec6/view/ HTTP/1.1" 200 10899
+INFO 2024-03-19 10:12:15,396 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=SQLPanel HTTP/1.1" 200 6674
+INFO 2024-03-19 10:12:35,130 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=ProfilingPanel HTTP/1.1" 200 1973
+INFO 2024-03-19 10:13:08,868 views 8592 6600 Index page accessed
+INFO 2024-03-19 10:13:08,907 basehttp 8592 6600 "GET / HTTP/1.1" 200 11183
+INFO 2024-03-19 10:13:15,650 basehttp 8592 6600 "GET /lec6/template/ HTTP/1.1" 200 10882
+INFO 2024-03-19 10:13:19,845 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=905f05a0be7b497bb6f9ed88361ee254&panel_id=SQLPanel HTTP/1.1" 200 22281
+INFO 2024-03-19 10:13:37,096 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=905f05a0be7b497bb6f9ed88361ee254&panel_id=TemplatesPanel HTTP/1.1" 200 7206
+INFO 2024-03-19 10:13:43,388 basehttp 8592 6600 "GET /__debug__/template_source/?template=lecture_6/total_count.html&template_origin=IkQ6XFxHQlxccHJvZ3JhbVxcRGphbmdvXFxIb21ld29ya19EamFuZ29cXGRqYW5nb19nYlxcbGVjdHVyZV82XFx0ZW1wbGF0ZXNcXGxlY3R1cmVfNlxcdG90YWxfY291bnQuaHRtbCI:1rmTet:Dv2y9SVPZDgCykT45GU_zdGGSJ2QBqfj01uPDbc083c HTTP/1.1" 200 709
+INFO 2024-03-19 10:13:49,075 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=SQLPanel HTTP/1.1" 200 6674
+INFO 2024-03-19 10:13:50,001 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=TemplatesPanel HTTP/1.1" 200 7168
+INFO 2024-03-19 10:13:59,690 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=ProfilingPanel HTTP/1.1" 200 1973
+INFO 2024-03-19 10:14:49,530 basehttp 8592 6600 "GET /__debug__/render_panel/?store_id=d8a1c242c26f45af86753923840d4af6&panel_id=HistoryPanel HTTP/1.1" 200 5797
+INFO 2024-03-19 10:14:49,548 basehttp 8592 6600 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 304 0
+INFO 2024-03-19 16:39:47,954 autoreload 8592 13716 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 16:39:49,267 autoreload 10624 12596 Watching for file changes with StatReloader
+INFO 2024-03-19 17:05:19,144 autoreload 10624 12596 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:05:20,041 autoreload 8600 12708 Watching for file changes with StatReloader
+INFO 2024-03-19 17:05:46,974 autoreload 8600 12708 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:05:47,874 autoreload 7104 10112 Watching for file changes with StatReloader
+INFO 2024-03-19 17:05:56,311 autoreload 7104 10112 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:05:57,237 autoreload 6896 12300 Watching for file changes with StatReloader
+INFO 2024-03-19 17:06:25,222 autoreload 6896 12300 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:06:26,122 autoreload 12772 1912 Watching for file changes with StatReloader
+INFO 2024-03-19 17:06:56,275 autoreload 12772 1912 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:06:57,173 autoreload 8412 12424 Watching for file changes with StatReloader
+INFO 2024-03-19 17:08:55,288 autoreload 8412 12424 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:08:56,197 autoreload 12124 7632 Watching for file changes with StatReloader
+INFO 2024-03-19 17:11:18,264 autoreload 12124 7632 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
+INFO 2024-03-19 17:11:19,180 autoreload 8900 12560 Watching for file changes with StatReloader
+INFO 2024-03-19 17:16:44,604 autoreload 8900 12560 D:\GB\program\Django\Homework_Django\django_gb\django_gb\settings.py changed, reloading.
