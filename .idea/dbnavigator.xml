@@ -31,12 +31,13 @@
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.lecture_4_user" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.homework_1_oder" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.auth_user_user_permissions" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.homework_1_oder" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.lecture_5_category" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.lecture_3_author" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.homework_1_oder_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.homework_1_client" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.lecture_5_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="0993dd69-aece-45f2-be5c-6f326a767789" dataset="main.gameapp_author" active-filter-id="EMPTY_FILTER">
       <filter id="8c286a94-e20f-44b8-82e7-0fee97fe3272" name="Filter" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="=" value="" active="true" />
